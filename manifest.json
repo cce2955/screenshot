@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Screenshot Capture",
+    "version": "1.0",
+    "description": "Capture a full-screen screenshot",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
